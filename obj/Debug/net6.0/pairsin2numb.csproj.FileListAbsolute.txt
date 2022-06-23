@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\bin\Debug\net6.0\pairsin2numb.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\bin\Debug\net6.0\pairsin2numb.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\bin\Debug\net6.0\pairsin2numb.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\bin\Debug\net6.0\pairsin2numb.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\bin\Debug\net6.0\pairsin2numb.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\refint\pairsin2numb.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\pairsin2numb.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Pairs in 2 numbers\pairsin2numb\obj\Debug\net6.0\ref\pairsin2numb.dll
